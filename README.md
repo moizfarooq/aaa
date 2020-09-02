@@ -1,2 +1,1 @@
-# aaa
-paper 1
+My First Paper
